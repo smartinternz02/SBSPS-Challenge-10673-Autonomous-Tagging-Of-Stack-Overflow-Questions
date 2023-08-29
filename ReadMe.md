@@ -1,5 +1,5 @@
 # Guide for project on LocalHost:
-- Download repository
+- Clone and download this repository
 - Install requirements.txt file using (pip install -r requirements.txt)
 - Run command in terminal (python3 ibm_app.py)
 
