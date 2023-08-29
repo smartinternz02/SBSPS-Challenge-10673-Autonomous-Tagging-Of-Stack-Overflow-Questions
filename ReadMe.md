@@ -4,8 +4,8 @@
 - Run command in terminal (python3 ibm_app.py)
 
 The proposed solution of using the one-vs-all technique with Logistic Regression, Linear SVC, and similar algorithms to create an autonomous tagging system for Stack Overflow questions offers several novel and unique aspects:
-### Link for Daataset
-#### [StackOverflow Dataset](https://www.kaggle.com/datasets/stackoverflow/stacksample)
+### Dataset Link: 
+#### [StackOverflow Labels Dataset](https://www.kaggle.com/datasets/stackoverflow/stacksample)
 ## APPROACH
 - Automated Tagging Approach:
    While manual tagging has been the norm for categorizing content on platforms like Stack Overflow, your solution introduces automation to the tagging process. This represents a significant shift in how tags are assigned, making the process faster, more efficient, and less error.
