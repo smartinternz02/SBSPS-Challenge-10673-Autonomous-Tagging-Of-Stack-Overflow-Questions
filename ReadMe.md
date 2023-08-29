@@ -1,3 +1,8 @@
+# Guide for project on LocalHost:
+- Download repository
+- Install requirements.txt file using (pip install -r requirements.txt)
+- Run command in terminal (python3 ibm_app.py)
+
 The proposed solution of using the one-vs-all technique with Logistic Regression, Linear SVC, and similar algorithms to create an autonomous tagging system for Stack Overflow questions offers several novel and unique aspects:
 
 ## APPROACH
@@ -11,7 +16,7 @@ The proposed solution of using the one-vs-all technique with Logistic Regression
    Treating each tag as a separate binary classification task (one-vs-all strategy) is an innovative approach to handling the multiclass tagging problem. This technique allows the system to focus on learning the specific characteristics of each tag, leading to more accurate predictions.
 
 -  Scalability and Real-time Tagging:
-   The automated tagging system is designed to scale seamlessly as the platform grows. The ability to tag new questions in real-time as they are posted is a unique feature that ensures questions are categorized accurately and promptly.
+   The automated tagging system is designed to scale seamlessly as the platform grows. The ability to tag new questions in real time as they are posted is a unique feature that ensures questions are categorized accurately and promptly.
 
 
 - Combination of Algorithms:
