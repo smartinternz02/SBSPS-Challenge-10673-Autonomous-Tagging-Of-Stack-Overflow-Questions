@@ -1,7 +1,7 @@
 # Guide for project on LocalHost:
-> Download repository
-> Install requirements.txt file using (pip install -r requirements.txt)
-> Run command in terminal (python3 ibm_app.py)
+- Download repository
+- Install requirements.txt file using (pip install -r requirements.txt)
+- Run command in terminal (python3 ibm_app.py)
 
 The proposed solution of using the one-vs-all technique with Logistic Regression, Linear SVC, and similar algorithms to create an autonomous tagging system for Stack Overflow questions offers several novel and unique aspects:
 
